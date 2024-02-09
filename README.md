@@ -1,10 +1,10 @@
 Project Name ===> Exercises Part 1
 
+Program Name ===> The First Exercise
+
 Question Number ===> 1 
 
 Programming Language ===> Python
-
-Program Name ===> The First Exercise
 
 Question ===> Write a program that takes the user's first name and last name and does the following:
 
