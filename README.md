@@ -6,7 +6,7 @@ Program Name ===> The First Exercise
 
 Programming Language ===> Python
 
-Question ===> Write a program that takes the user's first name and last name and does the following:
+Example ===> ===> Write a program that takes the user's first name and last name and does the following:
 
 A: Display The Full Name
 
